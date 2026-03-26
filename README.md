@@ -81,7 +81,3 @@ src/
 ├── data/          # themes.json, tracks.json, sequences.json
 └── styles/        # CSS tokens, typography, animations
 ```
-
-## License
-
-MIT
