@@ -1,3 +1,7 @@
 dist/
 dist-node/
 node_modules/
+
+#build info
+tsconfig.node.tsbuildinfo
+tsconfig.tsbuildinfo
