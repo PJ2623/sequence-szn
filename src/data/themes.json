@@ -1,0 +1,58 @@
+{
+  "midnight": {
+    "bg": "#0D0D12",
+    "bg2": "#16161F",
+    "surface": "#1E1E2A",
+    "accent": "#E8A849",
+    "accent2": "#6C63FF",
+    "accent3": "#3ECFB2",
+    "text": "#F0EDE6",
+    "textDim": "#8A8694",
+    "error": "#FF6B6B",
+    "perfect": "#FFD700",
+    "particleColor": "0x6c63ff",
+    "laneColors": ["#6C63FF", "#E8A849", "#3ECFB2", "#C77DFF"]
+  },
+  "sunrise": {
+    "bg": "#140E0A",
+    "bg2": "#1E1510",
+    "surface": "#2A1E16",
+    "accent": "#F4845F",
+    "accent2": "#F7B267",
+    "accent3": "#F8D49B",
+    "text": "#FEF0E1",
+    "textDim": "#A08B78",
+    "error": "#E85D4A",
+    "perfect": "#FFD700",
+    "particleColor": "0xf4845f",
+    "laneColors": ["#F4845F", "#F7B267", "#F8D49B", "#FF6B8A"]
+  },
+  "forest": {
+    "bg": "#0A100E",
+    "bg2": "#111E18",
+    "surface": "#182A22",
+    "accent": "#4ADE80",
+    "accent2": "#22D3EE",
+    "accent3": "#86EFAC",
+    "text": "#E8F5E9",
+    "textDim": "#6B8F7B",
+    "error": "#F87171",
+    "perfect": "#FFD700",
+    "particleColor": "0x4ade80",
+    "laneColors": ["#4ADE80", "#22D3EE", "#86EFAC", "#67E8F9"]
+  },
+  "neon": {
+    "bg": "#0A0A14",
+    "bg2": "#12121E",
+    "surface": "#1A1A2E",
+    "accent": "#FF2D95",
+    "accent2": "#00F0FF",
+    "accent3": "#B829DD",
+    "text": "#F0F0FF",
+    "textDim": "#7878A0",
+    "error": "#FF4444",
+    "perfect": "#FFD700",
+    "particleColor": "0xff2d95",
+    "laneColors": ["#FF2D95", "#00F0FF", "#B829DD", "#FFE44D"]
+  }
+}
